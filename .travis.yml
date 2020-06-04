@@ -1,5 +1,8 @@
 language: generic
 
+arch:
+    - amd64
+    - arm64
 os:
   - linux
   - osx
